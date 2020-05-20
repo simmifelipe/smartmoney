@@ -1,5 +1,5 @@
 # Smart Money
-:moneybag: :ghost: Aplicativo pessoal para controle de finanças
+:moneybag: Aplicativo pessoal para controle de finanças
 
 ### Motivação
 Primeiro contato com React Native.
