@@ -9,7 +9,7 @@ Conhecer as tecnologias necessárias para desenvolver aplicativos híbridos de f
   * Componentização
   * Estilização com StyleSheet
   * Rotas (Navigation v4 e v5)
-  * Hooks(useState, useEffect) e Custom Hooks
+  * Hooks (useState, useEffect) e Custom Hooks
   * Utilização do RealmDB
   * Gráficos
   * Geolocalização
